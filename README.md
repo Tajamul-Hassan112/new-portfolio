@@ -47,10 +47,6 @@ You might encounter some bugs while using this app. You are more than welcome to
 
 ---
 
-## :coffee: Buy Me a Coffee
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/TajamulHassan112 "Buy me a Coffee")
-
 ## :rocket: Follow Me
 
 [![GitHub followers](https://img.shields.io/github/followers/Tajamul-Hassan112?style=social&label=Follow&maxAge=2592000)](https://github.com/Tajamul-Hassan112 "Follow Me")  
