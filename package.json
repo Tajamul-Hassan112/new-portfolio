@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
+    "name": "Tajamul Hassan",
+    "email": "tajamulhassan49@gmail.com",
     "url": "https://github.com/sanidhyy"
   },
   "description": "Modern & Minimalist Next.js Portfolio.",
@@ -62,7 +62,7 @@
   "homepage": "https://github.com/sanidhyy/next-portfolio#readme",
   "bugs": {
     "url": "https://github.com/sanidhyy/next-portfolio/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "email": "tajamulhassan49@gmail.com"
   },
   "funding": [
     {
